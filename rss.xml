@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[indigena digital ]]></title>
+        <description><![CDATA[indigena digital ]]></description>
+        <link>https://thegrid.ai/indigenadigital/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 03:13:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/indigenadigital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://indigenadigital.tumblr.com/</link>
+            <guid isPermaLink="false">e75f8353-8775-4209-95c3-a645d9bdb75d</guid>
+            <pubDate>Tue, 12 Apr 2016 03:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://indigenadigital.tumblr.com/</link>
+            <guid isPermaLink="false">2885a2c8-96ba-4a4a-8b65-883cfbd86189</guid>
+            <pubDate>Tue, 12 Apr 2016 03:13:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
