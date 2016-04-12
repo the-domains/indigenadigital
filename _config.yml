@@ -1,6 +1,6 @@
 name: indigenadigital
 favicon: null
-layout_spectrum: 0.24369
+layout_spectrum: 0.02358
 typography_spectrum: 1
 title: 'indigena digital '
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5083012320101261
-  lightness: 0.8293711114674807
-  saturation: 0.5179803250357509
-  rhythmicContrast: 0.31478540459647775
+    - '#111111'
+    - '#dfe2e7'
+    - '#736d4f'
+    - '#d59a7c'
+    - '#900010'
+  brandStrength: 0.9375
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
